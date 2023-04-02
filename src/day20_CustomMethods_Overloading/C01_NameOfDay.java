@@ -1,6 +1,5 @@
 package day20_CustomMethods_Overloading;
 
-import java.lang.runtime.SwitchBootstraps;
 
 public class C01_NameOfDay {
     public static void main(String[] args) {
